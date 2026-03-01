@@ -1,0 +1,6 @@
+spring:
+  config:
+    activate:
+      on-profile: osiv-on
+  jpa:
+    open-in-view: true
